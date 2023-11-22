@@ -732,7 +732,7 @@ img {
 }
 
 .swiper-container-horizontal > .swiper-pagination-bullets{
-  buttom: -2.5rem;
+  bottom: -2.5rem;
 }
 .swiper-pagination-bullets-active{
   background-color: var(--first-color);
